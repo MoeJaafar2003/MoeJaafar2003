@@ -1,4 +1,4 @@
-|[logo](https://github.com/MoeJaafar2003/MoeJaafar2003/blob/main/pexels-monoar-rahman-114907.jpg)
+![logo](https://github.com/MoeJaafar2003/MoeJaafar2003/blob/main/pexels-monoar-rahman-114907.jpg)
 <h1 align="center">Hi 👋, I'm Mohammed Jaafar</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Gaza Strip-Palistine</h3>
 <img align="right" alt="coding" width="400" src="68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966.gif">
